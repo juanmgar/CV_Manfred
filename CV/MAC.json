@@ -19,8 +19,8 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juanmgar/"
+        "type": "other",
+        "URL": "http://lasinceridadestamalvista.com"
       },
       {
         "type": "github",
@@ -31,40 +31,13 @@
         "URL": "https://twitter.com/juanmgar"
       },
       {
-        "type": "other",
-        "URL": "http://lasinceridadestamalvista.com"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmgar/"
       }
     ]
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Fundación Telefónica",
-          "image": {
-            "alt": "Fundación Telefónica",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53067433-c902-44a0-b409-334ef9fa1a63_req1rgagkrpxftk7zt78.jpg"
-          },
-          "URL": "http://www.fundaciontelefonica.com"
-        },
-        "roles": [
-          {
-            "name": "Mobile applications developer",
-            "startDate": "2016-07-01",
-            "finishDate": "2016-12-31",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Android Studio",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "Treelogic",
@@ -85,6 +58,10 @@
             ],
             "competences": [
               {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
@@ -93,42 +70,11 @@
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
                 "name": "TypeScript",
                 "type": "technology"
               },
               {
                 "name": "jhipster",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Kantar Health",
-          "image": {
-            "alt": "Kantar Health",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bef4b96c-6713-492f-985d-454a1cef30ea_mtdru.png"
-          },
-          "URL": "https://kantarhealth.com"
-        },
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-06-30",
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
                 "type": "technology"
               }
             ]
@@ -156,6 +102,14 @@
             ],
             "competences": [
               {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Freemarker",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
@@ -164,23 +118,69 @@
                 "type": "technology"
               },
               {
-                "name": "Oracle",
+                "name": "LifeRay",
                 "type": "technology"
               },
               {
-                "name": "Tomcat",
+                "name": "Oracle",
                 "type": "technology"
               },
               {
                 "name": "Weblogic",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kantar Health",
+          "image": {
+            "alt": "Kantar Health",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bef4b96c-6713-492f-985d-454a1cef30ea_mtdru.png"
+          },
+          "URL": "https://kantarhealth.com"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-06-30",
+            "competences": [
               {
-                "name": "LifeRay",
+                "name": "MySQL",
                 "type": "technology"
               },
               {
-                "name": "Freemarker",
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fundación Telefónica",
+          "image": {
+            "alt": "Fundación Telefónica",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53067433-c902-44a0-b409-334ef9fa1a63_req1rgagkrpxftk7zt78.jpg"
+          },
+          "URL": "http://www.fundaciontelefonica.com"
+        },
+        "roles": [
+          {
+            "name": "Mobile applications developer",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-12-31",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
                 "type": "technology"
               }
             ]
@@ -204,7 +204,67 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HL7",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Análisis Bioinformático Avanzado",
+        "startDate": "2018-10-01",
+        "finishDate": "2022-12-01",
+        "institution": {
+          "name": "Universidad Pablo de Olavide",
+          "image": {
+            "alt": "Marca-Vertical-Azul1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg"
+          }
+        }
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -213,7 +273,6 @@
         "finishDate": "2015-12-01",
         "institution": {
           "name": "Universidad Internacional de Andalucía",
-          "description": "",
           "URL": "https://www.uma.es/master-en-biotecnologia-avanzada/",
           "image": {
             "alt": "Logo_UNIA.png",
@@ -229,7 +288,6 @@
         "finishDate": "2012-01-01",
         "institution": {
           "name": "University of Granada",
-          "description": "",
           "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios",
           "image": {
             "alt": "screenshot.png",
@@ -238,29 +296,14 @@
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Perl",
             "type": "technology"
           },
           {
-            "name": "Perl",
+            "name": "Python",
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Máster en Análisis Bioinformático Avanzado",
-        "startDate": "2018-10-01",
-        "finishDate": "2022-12-01",
-        "institution": {
-          "name": "Universidad Pablo de Olavide",
-          "description": "",
-          "image": {
-            "alt": "Marca-Vertical-Azul1.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg"
-          }
-        }
       }
     ]
   },
@@ -276,6 +319,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
           "type": "technology"
         },
@@ -285,14 +332,6 @@
         },
         {
           "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
-          "name": "jhipster",
           "type": "technology"
         }
       ]
