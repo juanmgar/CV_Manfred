@@ -257,6 +257,66 @@
     "studies": [
       {
         "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Máster en Ingeniería Web",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Universidad de Oviedo",
+          "URL": "https://miw.uniovi.es/",
+          "image": {
+            "alt": "245px-Logo_Universidad_de_Oviedo_centrado.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/22/fa1e61d7-e6d2-45a7-bed5-62d59da03482_245px-logo_universid.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Terraform",
+            "type": "technology"
+          },
+          {
+            "name": "Vagrant",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Máster en Análisis Bioinformático Avanzado",
         "startDate": "2018-10-01",
