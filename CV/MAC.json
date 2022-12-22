@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,12 +9,16 @@
       "name": "Juan Manuel",
       "surnames": "Garcia Sierra",
       "title": "FullStack Developer at Treelogic",
+      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c5490401-c88f-4c7b-95af-2e8777c0be1a_hlnkr.jpg"
       },
       "location": {
-        "notes": "Asturias, ES"
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Oviedo",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -147,6 +151,11 @@
             "name": "Developer",
             "startDate": "2017-05-01",
             "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "MySQL",
@@ -174,6 +183,11 @@
             "name": "Mobile applications developer",
             "startDate": "2016-07-01",
             "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Android",
@@ -192,6 +206,7 @@
       {
         "details": {
           "name": "La sinceridad está mal vista",
+          "description": "",
           "URL": "http://lasinceridadestamalvista.com",
           "image": {
             "alt": "La sinceridad está mal vista",
@@ -206,10 +221,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -221,25 +238,25 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -259,6 +276,7 @@
         "finishDate": "2022-12-01",
         "institution": {
           "name": "Universidad Pablo de Olavide",
+          "description": "",
           "image": {
             "alt": "Marca-Vertical-Azul1.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg"
@@ -273,6 +291,7 @@
         "finishDate": "2015-12-01",
         "institution": {
           "name": "Universidad Internacional de Andalucía",
+          "description": "",
           "URL": "https://www.uma.es/master-en-biotecnologia-avanzada/",
           "image": {
             "alt": "Logo_UNIA.png",
@@ -288,6 +307,7 @@
         "finishDate": "2012-01-01",
         "institution": {
           "name": "University of Granada",
+          "description": "",
           "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios",
           "image": {
             "alt": "screenshot.png",
@@ -334,7 +354,11 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
