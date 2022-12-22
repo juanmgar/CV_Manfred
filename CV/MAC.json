@@ -324,6 +324,8 @@
         "finishDate": "2022-12-01",
         "institution": {
           "name": "Universidad Pablo de Olavide",
+          "description": "Competencias generales adquiridas:   \n- Entender, crear y analizar ficheros procedentes de experimentos de análisis bioinformáticos masivos.\n- Analizar datos biológicos masivos por medio de la bioinformática.\n- Gestionar datos biológicos procedentes de experimentos de análisis masivo.\n- Escribir programas y guiones bionformáticos para resolver problemas biológicos.\n- Trabajar en un entorno de supercomputación, con múltiples procesadores y colas de ejecución de procesos.\n- Trabajar colaborativamente en grupo para resolver problemas complejos en bioinformática.\n- Realizar un proyecto bioinformático utilizando técnicas de análisis de datos.",
+          "URL": "https://www.upo.es/postgrado/Master-Analisis-Bioinformatico-Avanzado",
           "image": {
             "alt": "Marca-Vertical-Azul1.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg"
