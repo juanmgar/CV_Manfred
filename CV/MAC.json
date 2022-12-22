@@ -335,6 +335,36 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2017-09-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "CIFP La Laboral",
+          "description": "Competencias adquiridas:  \n\nDesarrollar, implantar, y mantener aplicaciones web, con independencia del modelo empleado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidas en los estándares establecidos.\n\n- Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos.\n- Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.\n- Gestionar servidores de aplicaciones adaptando su configuración en cada caso para permitir el despliegue de aplicaciones web.\n- Gestionar bases de datos, interpretando su diseño lógico y verificando integridad, consistencia, seguridad y accesibilidad de los datos.\n- Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes, objetos de acceso y herramientas de mapeo adecuados a las especificaciones.\n- Integrar contenidos en la lógica de una aplicación web, desarrollando componentes de acceso a datos adecuados a las especificaciones.\n- Desarrollar interfaces en aplicaciones web de acuerdo con un manual de estilo, utilizando lenguajes de marcas y estándares web.\n- Desarrollar componentes multimedia para su integración en aplicaciones web, empleando herramientas específicas y siguiendo las especificaciones establecidas.\n- Integrar componentes multimedia en el interface de una aplicación web, realizando el análisis de interactividad, accesibilidad y usabilidad de la aplicación.\n- Desarrollar e integrar componentes software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación.\n- Desarrollar servicios para integrar sus funciones en otras aplicaciones web, asegurando su funcionalidad.\n- Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad.",
+          "URL": "https://alojaweb.educastur.es/web/cifplalaboral/portada",
+          "image": {
+            "alt": "teco-cifp-la-laboral.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/22/3cb780f9-9a2c-4c01-826e-a7fe4ca5d4bb_teco-cifp-la-laboral.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Máster oficial en Biotecnología Avanzada",
         "startDate": "2014-10-01",
         "finishDate": "2015-12-01",
