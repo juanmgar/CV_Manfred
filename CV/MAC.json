@@ -222,11 +222,19 @@
     "languages": [
       {
         "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "French",
         "level": "Limited working proficiency"
       },
       {
+        "name": "Italian",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
