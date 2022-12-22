@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,6 @@
       "name": "Juan Manuel",
       "surnames": "Garcia Sierra",
       "title": "FullStack Developer at Treelogic",
-      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c5490401-c88f-4c7b-95af-2e8777c0be1a_hlnkr.jpg"
@@ -17,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
@@ -57,7 +55,7 @@
             "startDate": "2018-11-01",
             "challenges": [
               {
-                "description": "Development of web applications related to innovation projects. The main technologies used are: Java, JHipster, Angular, Javascript, Typescript,..."
+                "description": "Desarrollador Full Stack (Java, Angular, Spring, JHipster) en distintos proyectos entre los que desatacan:  \n- Hercules: Infraestructura semántica basada en el paradigma de datos abiertos para la gestión de investigación de las universidades Españolas.\n- Triaje-SET: software de ayuda inteligente al triaje tanto para adultos como pediátrico, evaluado y validado, con ayuda continua y con registro anamnésico.\n- SEPSIS SW: herramienta cuyo objetivo es ayudar a disminuir la incidencia de la SEPSIS, gracias a una eficaz detección precoz y un adecuado manejo post-detección.\n- SERIF: familia de soluciones de detección, análisis e investigación de fraude en seguros que, mediante el uso de tecnologías de Big Data y Data Science, permite analizar grandes volúmenes de datos optimizando los resultados.\n- iTrack: Sistema integrado de seguimiento en tiempo real e inteligencia colectiva en misiones humanitarias civiles."
               }
             ],
             "competences": [
@@ -75,10 +73,6 @@
               },
               {
                 "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "jhipster",
                 "type": "technology"
               }
             ]
@@ -151,11 +145,6 @@
             "name": "Developer",
             "startDate": "2017-05-01",
             "finishDate": "2017-06-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "MySQL",
@@ -183,11 +172,6 @@
             "name": "Mobile applications developer",
             "startDate": "2016-07-01",
             "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Android",
@@ -206,7 +190,6 @@
       {
         "details": {
           "name": "La sinceridad está mal vista",
-          "description": "",
           "URL": "http://lasinceridadestamalvista.com",
           "image": {
             "alt": "La sinceridad está mal vista",
@@ -221,20 +204,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "French",
-        "level": "Limited working proficiency"
+        "name": "French"
       },
       {
-        "name": "Italian",
-        "level": "Professional working proficiency"
+        "name": "Italian"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -284,7 +263,6 @@
         "finishDate": "2022-12-01",
         "institution": {
           "name": "Universidad Pablo de Olavide",
-          "description": "",
           "image": {
             "alt": "Marca-Vertical-Azul1.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg"
@@ -299,7 +277,6 @@
         "finishDate": "2015-12-01",
         "institution": {
           "name": "Universidad Internacional de Andalucía",
-          "description": "",
           "URL": "https://www.uma.es/master-en-biotecnologia-avanzada/",
           "image": {
             "alt": "Logo_UNIA.png",
@@ -315,7 +292,6 @@
         "finishDate": "2012-01-01",
         "institution": {
           "name": "University of Granada",
-          "description": "",
           "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios",
           "image": {
             "alt": "screenshot.png",
@@ -366,7 +342,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
