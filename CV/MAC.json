@@ -538,6 +538,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
