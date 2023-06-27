@@ -252,7 +252,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Biology",
+        "name": "Biologia",
         "startDate": "2006-01-01",
         "institution": {
           "name": "University of Granada",
@@ -365,6 +365,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Desarrollo de Emprendedores",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Universidad de Sevilla",
+          "URL": "https://cfp.us.es/cursos/mu/desarrollo-de-emprendedores/4862/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/27/1748aad8-ac1d-42d4-8b94-167d2518a2dd_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "finishDate": "2016-06-01"
       },
       {
         "studyType": "officialDegree",
