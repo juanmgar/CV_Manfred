@@ -246,6 +246,12 @@
           "name": "PostgreSQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -535,6 +541,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Para mi, lo más importante es aprender día a día, en un ambiente de trabajo amable y constructivo. Soy una persona que está constantemente formándose y, por lo tanto, me siento más cómodo en empresas donde esto se facilita y valora.   \n\nMe gustan los proyectos en los que el equipo tiene un background diverso, porque me parece enriquecedor para todos, así como para el propio proyecto. "
   }
 }
