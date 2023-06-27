@@ -276,6 +276,43 @@
       },
       {
         "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "IES N1",
+          "description": "Falta Proyecto fin de ciclo",
+          "URL": "https://alojaweb.educastur.es/web/iesn1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/27/8e42a49e-f2ad-48d5-8aab-2e181fc30957_descarga.jpeg",
+            "alt": "descarga.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLite",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web",
         "startDate": "2017-09-01",
@@ -306,7 +343,7 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Máster en Análisis Bioinformático Avanzado",
         "startDate": "2018-10-01",
         "institution": {
@@ -318,7 +355,16 @@
             "alt": "Marca-Vertical-Azul1.jpg"
           }
         },
-        "finishDate": "2022-12-01"
+        "linkedCompetences": [
+          {
+            "name": "Perl",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
