@@ -243,6 +243,12 @@
       },
       {
         "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
@@ -554,6 +560,10 @@
       },
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       },
       {
