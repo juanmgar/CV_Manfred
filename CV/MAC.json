@@ -249,6 +249,12 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
           "type": "technology"
         }
@@ -544,6 +550,10 @@
     "mainStackTechs": [
       {
         "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
         "type": "technology"
       },
       {
