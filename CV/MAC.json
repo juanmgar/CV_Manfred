@@ -530,10 +530,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
           "name": "JAVA",
           "type": "technology"
         },
