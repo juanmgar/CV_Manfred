@@ -6,64 +6,26 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "JuanMa",
+      "name": "Juan Manuel",
       "surnames": "Garcia Sierra",
-      "title": "FullStack Developer en Treelogic",
-      "description": "Aunque me licencié en biología y complementé mi formación con varios másteres en biotecnología, análisis bioinformático y emprendimiento; también he adquirido conocimientos técnicos a través de los ciclos formativos de grado superior en desarrollo web y desarrollo multiplataforma. Actualmente, me encuentro compaginando mi trabajo con el máster habilitante en ingeniería web para seguir expandiendo mis habilidades y conocimientos en este apasionante campo.\n\nHe tenido la fortuna de trabajar en proyectos relacionados con las industrias farmacéutica y sanitaria en el ámbito de la innovación, así como en el sector de los seguros. Estas experiencias han sido fundamentales para mi desarrollo personal y profesional, ya que me han permitido aplicar mis conocimientos científicos con los tecnológicos de manera efectiva. Me siento orgulloso de haber contribuido en la creación de soluciones que han mejorado la calidad de vida de las personas. \n\nHe trabajado con varios lenguajes de programación como Python o JavaScript, pero con el que me siento más cómodo es Java. Hablando de bases de datos, he trabajado sobre todo con SQL, específicamente con Postgres y Oracle, aunque también con MongoDB para datos más flexibles. Como he estado en equipos pequeños la mayor parte del tiempo, he tenido que hacer de todo un poco y convertirme en un desarrollador todoterreno, manejando tanto el front como el back de las aplicaciones.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c5490401-c88f-4c7b-95af-2e8777c0be1a_hlnkr.jpg",
-        "alt": "profile-image"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJZxysYJqMNg0RJGJezA5ENDE)",
-        "country": "España",
-        "region": "Principado de Asturias",
-        "municipality": "Oviedo"
-      }
-    },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://juanmagarciasierra.eu/"
-      }
-    ]
+      "title": "Full Stack Developer en Treelogic",
+      "description": "Soy licenciado en Biología, máster en Biotecnología Avanzada y Emprendimiento, máster en Análisis Bioinformático y Desarrollador de Aplicaciones Web y Multiplataforma, aunque mi formación no reglada es multidisciplinar. En la actualidad estoy formándome como máster en Ingeniería Web.\n\nMe apasiona el conocimiento científico, las nuevas tecnologías, el open data y los blogs. Siempre estoy dispuesto a explorar nuevas oportunidades relacionadas con la programación, la biotecnología y el medio ambiente, especialmente si están vinculadas al emprendimiento social o iniciativas tecnológicas."
+    }
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Treelogic",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9a0ff4f3-598e-4837-932a-5c167ecc4ee0_6i2ew.png",
-            "alt": "Treelogic"
-          },
-          "URL": "https://treelogic.com"
+          "name": "University of Granada"
         },
         "roles": [
           {
-            "name": "Developer",
-            "startDate": "2018-11-01",
+            "name": "Becario de Apoyo a la Automatrícula",
+            "startDate": "2012-07-01",
+            "finishDate": "2012-09-30",
             "challenges": [
               {
-                "description": "Desarrollador Full Stack (Java, Angular, Spring, JHipster) en distintos proyectos entre los que desatacan:  \n- Hercules: Infraestructura semántica basada en el paradigma de datos abiertos para la gestión de investigación de las universidades Españolas.\n- Triaje-SET: software de ayuda inteligente al triaje tanto para adultos como pediátrico, evaluado y validado, con ayuda continua y con registro anamnésico.\n- SEPSIS SW: herramienta cuyo objetivo es ayudar a disminuir la incidencia de la SEPSIS, gracias a una eficaz detección precoz y un adecuado manejo post-detección.\n- SERIF: familia de soluciones de detección, análisis e investigación de fraude en seguros que, mediante el uso de tecnologías de Big Data y Data Science, permite analizar grandes volúmenes de datos optimizando los resultados.\n- iTrack: Sistema integrado de seguimiento en tiempo real e inteligencia colectiva en misiones humanitarias civiles."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
+                "description": "Atención telefónica, atención presencial, resolución de dudas sobre el proceso de matriculación."
               }
             ]
           }
@@ -71,51 +33,16 @@
       },
       {
         "organization": {
-          "name": "Future Space S.A.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ebdf01b3-fc21-410b-b0f1-c3ce6910f053_woqeo.png",
-            "alt": "Future Space S.A."
-          },
-          "URL": "https://www.futurespace.es/"
+          "name": "University of Granada"
         },
         "roles": [
           {
-            "name": "Devop",
-            "startDate": "2017-06-01",
-            "finishDate": "2018-11-30",
+            "name": "Coordinador de la Delegación General de Estudiantes",
+            "startDate": "2010-11-01",
+            "finishDate": "2011-10-31",
             "challenges": [
               {
-                "description": "DevOp in maintenance tasks for the contracting portal of the insurance company Caser Seguros."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Apache Tomcat",
-                "type": "technology"
-              },
-              {
-                "name": "Freemarker",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "LifeRay",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Weblogic",
-                "type": "technology"
+                "description": "Relaciones institucionales tanto académicas como del ámbito empresarial y de la investigación para la mejora de la educación y servicios del estudiantado de la Universidad de Granada."
               }
             ]
           }
@@ -123,26 +50,16 @@
       },
       {
         "organization": {
-          "name": "Kantar Health",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/bef4b96c-6713-492f-985d-454a1cef30ea_mtdru.png",
-            "alt": "Kantar Health"
-          },
-          "URL": "https://kantarhealth.com"
+          "name": "University of Granada"
         },
         "roles": [
           {
-            "name": "Developer",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-06-30",
-            "competences": [
+            "name": "Coordinador I Jornadas Blogs y Ciencia de Granada",
+            "startDate": "2009-11-01",
+            "finishDate": "2010-01-01",
+            "challenges": [
               {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
+                "description": "Entrevista a Juan Manuel García Sierra. Ciencia y tecnología en Rtve.es online, completo y gratis en RTVE.es A la Carta. Todos los programas de Ciencia y tecnología en Rtve.es online en RTVE.es A la Carta"
               }
             ]
           }
@@ -150,79 +67,59 @@
       },
       {
         "organization": {
-          "name": "Fundación Telefónica",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53067433-c902-44a0-b409-334ef9fa1a63_req1rgagkrpxftk7zt78.jpg",
-            "alt": "Fundación Telefónica"
-          },
-          "URL": "http://www.fundaciontelefonica.com"
+          "name": "University of Granada"
         },
         "roles": [
           {
-            "name": "Mobile applications developer",
-            "startDate": "2016-07-01",
-            "finishDate": "2016-12-31",
-            "competences": [
+            "name": "Vicecoordinador de la Delegación General de estudiantes",
+            "startDate": "2009-01-01",
+            "finishDate": "2010-11-30",
+            "challenges": [
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Android Studio",
-                "type": "technology"
+                "description": "Organización de jornadas y congresos, relaciones institucionales, redacción de informes."
               }
             ]
           }
         ]
-      }
-    ],
-    "publicArtifacts": [
+      },
       {
-        "details": {
-          "name": "La sinceridad está mal vista",
-          "URL": "http://lasinceridadestamalvista.com",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9db2d203-73cf-4a0e-adcf-6c57eab05f9e_mev9j.jpg",
-            "alt": "La sinceridad está mal vista"
-          }
+        "organization": {
+          "name": "University of Granada"
         },
-        "type": "post",
-        "publishingDate": "2010-01-01"
+        "roles": [
+          {
+            "name": "Miembro del Consejo Social",
+            "startDate": "2008-11-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Asesorar al Consejo en relación a los derechos, intereses y reivindicaciones del estudiantado universitario; canalizar las iniciativas estudiantiles; promover medidas y políticas generales de empleo e inserción laboral para el estudiantado universitario; relaciones institucionales.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Granada"
+        },
+        "roles": [
+          {
+            "name": "Becario colaborador para la implantación de las experiencias piloto de aplicación del sistema ECTS",
+            "startDate": "2007-10-01",
+            "finishDate": "2010-09-30",
+            "challenges": [
+              {
+                "description": "Mantenimiento de página web de la licenciatura de biología, mantenimiento de aulas de informática, elaboración de encuestas, redacción de informes, coordinación de aulas, preparación de material docente."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "EN",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "ES",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "FR",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "IT",
-        "level": "Professional working proficiency"
-      }
-    ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HL7",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JAVA",
@@ -237,7 +134,13 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MuleSoft",
           "type": "technology"
         }
       },
@@ -261,238 +164,20 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Spring",
           "type": "technology"
         }
-      }
-    ],
-    "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Biologia",
-        "startDate": "2006-01-01",
-        "institution": {
-          "name": "University of Granada",
-          "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/1bdf3b2a-6cf0-4a18-b6d3-752886a63a48_screenshot.png",
-            "alt": "screenshot.png"
-          }
-        },
-        "finishDate": "2012-01-01",
-        "linkedCompetences": [
-          {
-            "name": "Perl",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
       },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "IES N1",
-          "description": "Falta Proyecto fin de ciclo",
-          "URL": "https://alojaweb.educastur.es/web/iesn1",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/27/8e42a49e-f2ad-48d5-8aab-2e181fc30957_descarga.jpeg",
-            "alt": "descarga.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": ".NET",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQLite",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web",
-        "startDate": "2017-09-01",
-        "institution": {
-          "name": "CIFP La Laboral",
-          "description": "Competencias adquiridas:  \n\nDesarrollar, implantar, y mantener aplicaciones web, con independencia del modelo empleado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidas en los estándares establecidos.\n\n- Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos.\n- Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.\n- Gestionar servidores de aplicaciones adaptando su configuración en cada caso para permitir el despliegue de aplicaciones web.\n- Gestionar bases de datos, interpretando su diseño lógico y verificando integridad, consistencia, seguridad y accesibilidad de los datos.\n- Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes, objetos de acceso y herramientas de mapeo adecuados a las especificaciones.\n- Integrar contenidos en la lógica de una aplicación web, desarrollando componentes de acceso a datos adecuados a las especificaciones.\n- Desarrollar interfaces en aplicaciones web de acuerdo con un manual de estilo, utilizando lenguajes de marcas y estándares web.\n- Desarrollar componentes multimedia para su integración en aplicaciones web, empleando herramientas específicas y siguiendo las especificaciones establecidas.\n- Integrar componentes multimedia en el interface de una aplicación web, realizando el análisis de interactividad, accesibilidad y usabilidad de la aplicación.\n- Desarrollar e integrar componentes software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación.\n- Desarrollar servicios para integrar sus funciones en otras aplicaciones web, asegurando su funcionalidad.\n- Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad.",
-          "URL": "https://alojaweb.educastur.es/web/cifplalaboral/portada",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/22/3cb780f9-9a2c-4c01-826e-a7fe4ca5d4bb_teco-cifp-la-laboral.png",
-            "alt": "teco-cifp-la-laboral.png"
-          }
-        },
-        "finishDate": "2019-06-01",
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Máster en Análisis Bioinformático Avanzado",
-        "startDate": "2018-10-01",
-        "institution": {
-          "name": "Universidad Pablo de Olavide",
-          "description": "Competencias generales adquiridas:   \n- Entender, crear y analizar ficheros procedentes de experimentos de análisis bioinformáticos masivos.\n- Analizar datos biológicos masivos por medio de la bioinformática.\n- Gestionar datos biológicos procedentes de experimentos de análisis masivo.\n- Escribir programas y guiones bionformáticos para resolver problemas biológicos.\n- Trabajar en un entorno de supercomputación, con múltiples procesadores y colas de ejecución de procesos.\n- Trabajar colaborativamente en grupo para resolver problemas complejos en bioinformática.\n- Realizar un proyecto bioinformático utilizando técnicas de análisis de datos.",
-          "URL": "https://www.upo.es/postgrado/Master-Analisis-Bioinformatico-Avanzado",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3d5da956-38bb-4699-8a28-e28cb5150440_marca-vertical-azul1.jpg",
-            "alt": "Marca-Vertical-Azul1.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Perl",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Máster en Desarrollo de Emprendedores",
-        "startDate": "2015-09-01",
-        "institution": {
-          "name": "Universidad de Sevilla",
-          "URL": "https://cfp.us.es/cursos/mu/desarrollo-de-emprendedores/4862/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/27/1748aad8-ac1d-42d4-8b94-167d2518a2dd_descarga.png",
-            "alt": "descarga.png"
-          }
-        },
-        "finishDate": "2016-06-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Máster en Ingeniería Web",
-        "startDate": "2022-09-01",
-        "institution": {
-          "name": "Universidad de Oviedo",
-          "description": "Este máster tiene como objetivo dotar de amplios conocimientos en las tecnologías que se aplican actualmente en la ingeniería Web y el desarrollo de otras aplicaciones distribuidas en Internet. Los contenidos de las asignaturas se actualizan cada año para adaptarlos a las novedades y demandas del sector. Entre otras áreas conocimiento se hace énfasis en el desarrollo de aplicaciones Web complejas, despliegue de aplicaciones, administración de servidores y gestión de proyectos Web. ",
-          "URL": "https://miw.uniovi.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/22/fa1e61d7-e6d2-45a7-bed5-62d59da03482_245px-logo_universid.jpg",
-            "alt": "245px-Logo_Universidad_de_Oviedo_centrado.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "Azure",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Kubernetes",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Terraform",
-            "type": "technology"
-          },
-          {
-            "name": "Vagrant",
-            "type": "technology"
-          },
-          {
-            "name": "XML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Máster oficial en Biotecnología Avanzada",
-        "startDate": "2014-10-01",
-        "institution": {
-          "name": "Universidad Internacional de Andalucía",
-          "URL": "https://www.uma.es/master-en-biotecnologia-avanzada/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/761812d1-707a-4059-b22a-52349877f0e1_logo_unia.png",
-            "alt": "Logo_UNIA.png"
-          }
-        },
-        "finishDate": "2015-12-01"
-      }
-    ],
-    "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
-          "type": "practice"
+          "name": "Struts",
+          "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Capacidad de escucha",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en equipo",
-          "type": "practice"
+          "name": "TypeScript",
+          "type": "technology"
         }
       }
     ]
@@ -503,58 +188,13 @@
         {
           "URL": "https://www.linkedin.com/in/juanmgar/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/11662836/juanmgar",
-          "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/juanmgar",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/juanmgar",
-          "type": "other"
         }
       ],
       "contactMails": [
         "juanmgar@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "696101266",
-          "countryCode": "+34"
-        }
       ]
     },
-    "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Scikit-learn",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      ],
-      "preferredRoles": [
-        "Full-stack Developer"
-      ]
-    },
-    "status": "searchingActively"
+    "status": "openToOffers"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
@@ -567,14 +207,17 @@
         "type": "technology"
       },
       {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
         "name": "Python",
         "type": "technology"
       },
       {
-        "name": "SQL",
+        "name": "Spring",
         "type": "technology"
       }
-    ],
-    "desiredJobDescription": "Para mi, lo más importante es aprender día a día, en un ambiente de trabajo amable y constructivo. Soy una persona que está constantemente formándose y, por lo tanto, me siento más cómodo en empresas donde esto se facilita y valora.   \n\nMe gustan los proyectos en los que el equipo tiene un background diverso, porque me parece enriquecedor para todos, así como para el propio proyecto. "
+    ]
   }
 }
