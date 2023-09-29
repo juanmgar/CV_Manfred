@@ -375,7 +375,11 @@
         "institution": {
           "name": "Universidad de Oviedo",
           "description": "Este máster tiene como objetivo dotar de amplios conocimientos en las tecnologías que se aplican actualmente en la ingeniería Web y el desarrollo de otras aplicaciones distribuidas en Internet. Los contenidos de las asignaturas se actualizan cada año para adaptarlos a las novedades y demandas del sector. Entre otras áreas conocimiento se hace énfasis en el desarrollo de aplicaciones Web complejas, despliegue de aplicaciones, administración de servidores y gestión de proyectos Web. ",
-          "URL": "https://miw.uniovi.es/"
+          "URL": "https://miw.uniovi.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/0e787aac-ff7f-4a0e-a375-ad4c3b8e3fe9_uniovi.jpg",
+            "alt": "uniovi.jpg"
+          }
         },
         "linkedCompetences": [
           {
