@@ -287,8 +287,11 @@
         "startDate": "2019-09-01",
         "institution": {
           "name": "IES N1",
-          "description": "Falta Proyecto fin de ciclo",
-          "URL": "https://alojaweb.educastur.es/web/iesn1"
+          "URL": "https://alojaweb.educastur.es/web/iesn1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/abe49d1f-646b-4d92-9125-da69cd762efa_38h98-g3_400x400.jpg",
+            "alt": "38H98-g3_400x400.jpg"
+          }
         },
         "linkedCompetences": [
           {
