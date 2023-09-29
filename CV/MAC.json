@@ -467,6 +467,14 @@
         {
           "URL": "https://stackoverflow.com/users/11662836/juanmgar",
           "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/juanmgar",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/juanmgar",
+          "type": "twitter"
         }
       ],
       "contactMails": [
