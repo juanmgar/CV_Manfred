@@ -262,7 +262,11 @@
         "startDate": "2006-01-01",
         "institution": {
           "name": "University of Granada",
-          "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios"
+          "URL": "https://grados.ugr.es/biologia/pages/infoacademica/estudios",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/3348dc3d-c39b-46b0-9c36-408433e524f5_screenshot.png",
+            "alt": "screenshot.png"
+          }
         },
         "finishDate": "2012-01-01",
         "linkedCompetences": [
