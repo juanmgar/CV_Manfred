@@ -143,6 +143,11 @@
             "name": "Developer",
             "startDate": "2017-05-01",
             "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": "Creación de Dashboards interactivos.\nAnálisis y tratamiento de bases de datos.\nDiseño gráfico, visualización de datos.\nPHP, JavaScript y MySql"
+              }
+            ],
             "competences": [
               {
                 "name": "MySQL",
