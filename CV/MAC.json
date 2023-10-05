@@ -41,6 +41,10 @@
       {
         "organization": {
           "name": "Treelogic",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/e4efdca6-40e4-4276-a873-b6e083d80de1_logo_tree.png",
+            "alt": "logo_tree.png"
+          },
           "URL": "https://treelogic.com"
         },
         "roles": [
