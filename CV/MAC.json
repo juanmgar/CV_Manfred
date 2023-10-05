@@ -80,6 +80,10 @@
       {
         "organization": {
           "name": "Future Space S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/cc5a36aa-d0a8-4c91-8a2c-9eb879ff3cfc_logo_treelogic.jpeg",
+            "alt": "logo_treelogic.jpeg"
+          },
           "URL": "https://www.futurespace.es/"
         },
         "roles": [
