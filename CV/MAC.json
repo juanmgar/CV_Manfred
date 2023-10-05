@@ -218,7 +218,11 @@
       {
         "details": {
           "name": "La sinceridad está mal vista",
-          "URL": "http://lasinceridadestamalvista.com"
+          "URL": "http://lasinceridadestamalvista.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/90d5077c-e2b0-4cbb-9509-758b4ff4c3cf_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2023-10-05 10-34-48.png"
+          }
         },
         "type": "post",
         "publishingDate": "2010-01-01"
