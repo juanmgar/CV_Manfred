@@ -9,7 +9,7 @@
       "name": "JuanMa",
       "surnames": "Garcia Sierra",
       "title": "FullStack Developer en Treelogic",
-      "description": "Soy licenciado en Biología, máster en Biotecnología Avanzada y Emprendimiento, máster en Análisis Bioinformático y Desarrollador de Aplicaciones Web y Multiplataforma, aunque mi formación no reglada es multidisciplinar. En la actualidad estoy formándome como máster en Ingeniería Web.\n\nMe apasiona el conocimiento científico, las nuevas tecnologías, el open data y los blogs. Siempre estoy dispuesto a explorar nuevas oportunidades relacionadas con la programación, la biotecnología y el medio ambiente, especialmente si están vinculadas al emprendimiento social o iniciativas tecnológicas.\n\nHe trabajado con varios lenguajes de programación como Python o JavaScript, pero con el que me siento más cómodo es Java. Hablando de bases de datos, he trabajado sobre todo con SQL, específicamente con Postgres y Oracle, aunque también con MongoDB para datos más flexibles. Como he estado en equipos pequeños la mayor parte del tiempo, he tenido que hacer de todo un poco y convertirme en un desarrollador todoterreno, manejando tanto el front como el back de las aplicaciones.",
+      "description": "Soy un apasionado del conocimiento científico y un amante de las nuevas tecnologías. Mi formación es una mezcla única de experiencia académica y autodidacta que abarca varios campos. Poseo una licenciatura en Biología, un máster en Biotecnología Avanzada y Emprendimiento, otro en Análisis Bioinformático, y soy desarrollador de aplicaciones web y multiplataforma. Actualmente, estoy inmerso en un emocionante viaje como estudiante de un máster en Ingeniería Web.\n\nMi corazón late por la programación, la biotecnología y la protección del medio ambiente. Siempre estoy ansioso por explorar nuevas oportunidades que combinen estos intereses, especialmente si se relacionan con el emprendimiento social o proyectos tecnológicos innovadores.\n\nA lo largo de mi trayecto, he trabajado con varios lenguajes de programación, desde Python hasta JavaScript, pero donde me siento más cómodo es con Java. En el mundo de las bases de datos, mi experiencia se extiende a SQL, específicamente con Postgres y Oracle, así como a MongoDB para manejar datos más flexibles. Debido a mi experiencia en equipos pequeños, me he convertido en un desarrollador todoterreno capaz de abordar tanto el front-end como el back-end de las aplicaciones con facilidad.\n\n\n\n\n",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/c89e0c2c-369e-41a3-872f-4feab7932803_1516954457476.jpeg",
         "alt": "1516954457476.jpeg"
@@ -24,8 +24,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://juanmagarciasierra.eu/",
-        "description": "Web personal"
+        "URL": "https://juanmagarciasierra.eu/"
       }
     ]
   },
