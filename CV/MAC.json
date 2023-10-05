@@ -132,6 +132,10 @@
       {
         "organization": {
           "name": "Kantar Health",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/461155fe-21b3-49bc-86f2-1c7c9e3f18e2_kantar_logo.jpeg",
+            "alt": "kantar_logo.jpeg"
+          },
           "URL": "https://kantarhealth.com"
         },
         "roles": [
