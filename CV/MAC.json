@@ -40,6 +40,34 @@
     "jobs": [
       {
         "organization": {
+          "name": "HackBio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/5d944268-7d0d-4cae-8757-25abc8ec7733_359831451_7635241391.jpg",
+            "alt": "359831451_763524139111074_2334971002539588519_n.jpg"
+          },
+          "URL": "https://thehackbio.com/"
+        },
+        "roles": [
+          {
+            "name": "Bioinformatician intern",
+            "startDate": "2021-10-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Internship programme to develop bioinformatics skills in an international context."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Treelogic",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/e4efdca6-40e4-4276-a873-b6e083d80de1_logo_tree.png",
