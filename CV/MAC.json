@@ -159,6 +159,10 @@
       {
         "organization": {
           "name": "Fundación Telefónica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/05/80070d5f-b834-46b7-9bb8-c28a22cc1863_talentum-telefonica.png",
+            "alt": "talentum-telefonica.png"
+          },
           "URL": "http://www.fundaciontelefonica.com"
         },
         "roles": [
@@ -166,6 +170,11 @@
             "name": "Mobile applications developer",
             "startDate": "2016-07-01",
             "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "- Metodologías de programación.\n- Arquitectura de aplicaciones.\n- Diseño web con HTML, CSS y JavaScript \n- PhoneGap.\n- BBDD y MySQL.\n- Metodologías ágiles.\n- Programación Java.\n- Programación de aplicaciones Android.\n- Programación de aplicaciones iOS.\n\nProyecto para UST: Geoloc. \nAplicación para dispositivos móviles android que geolocaliza a los contactos de tu agenda.\nhttps://github.com/TalentumGeoloc/USTGeoloc1.0"
+              }
+            ],
             "competences": [
               {
                 "name": "Android",
