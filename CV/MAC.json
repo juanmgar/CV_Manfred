@@ -324,7 +324,11 @@
         "institution": {
           "name": "CIFP La Laboral",
           "description": "Competencias adquiridas:  \n\nDesarrollar, implantar, y mantener aplicaciones web, con independencia del modelo empleado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidas en los estándares establecidos.\n\n- Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos.\n- Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.\n- Gestionar servidores de aplicaciones adaptando su configuración en cada caso para permitir el despliegue de aplicaciones web.\n- Gestionar bases de datos, interpretando su diseño lógico y verificando integridad, consistencia, seguridad y accesibilidad de los datos.\n- Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes, objetos de acceso y herramientas de mapeo adecuados a las especificaciones.\n- Integrar contenidos en la lógica de una aplicación web, desarrollando componentes de acceso a datos adecuados a las especificaciones.\n- Desarrollar interfaces en aplicaciones web de acuerdo con un manual de estilo, utilizando lenguajes de marcas y estándares web.\n- Desarrollar componentes multimedia para su integración en aplicaciones web, empleando herramientas específicas y siguiendo las especificaciones establecidas.\n- Integrar componentes multimedia en el interface de una aplicación web, realizando el análisis de interactividad, accesibilidad y usabilidad de la aplicación.\n- Desarrollar e integrar componentes software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación.\n- Desarrollar servicios para integrar sus funciones en otras aplicaciones web, asegurando su funcionalidad.\n- Integrar servicios y contenidos distribuidos en aplicaciones web, asegurando su funcionalidad.",
-          "URL": "https://alojaweb.educastur.es/web/cifplalaboral/portada"
+          "URL": "https://alojaweb.educastur.es/web/cifplalaboral/portada",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/29/2117fa02-d95c-4b7f-8909-5365ee089ea5_teco-cifp-la-laboral.png",
+            "alt": "teco-cifp-la-laboral.png"
+          }
         },
         "finishDate": "2019-06-01",
         "linkedCompetences": [
