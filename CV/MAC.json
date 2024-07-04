@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,22 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanmgar/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/juanmgar"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/juanmgar"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/11662836/juanmgar"
+      },
       {
         "type": "other",
         "URL": "https://juanmagarciasierra.eu/"
@@ -82,7 +98,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -126,7 +142,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -134,7 +150,7 @@
                 "type": "technology"
               },
               {
-                "name": "LifeRay",
+                "name": "Liferay",
                 "type": "technology"
               },
               {
@@ -233,18 +249,22 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Limited working proficiency"
       },
       {
         "name": "IT",
+        "fullName": "Italiano",
         "level": "Professional working proficiency"
       }
     ],
@@ -263,7 +283,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -349,7 +369,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -383,7 +403,7 @@
         "finishDate": "2019-06-01",
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -456,7 +476,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -544,18 +564,12 @@
       ],
       "contactMails": [
         "juanmgar@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "696101266",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -584,7 +598,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
