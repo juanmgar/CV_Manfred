@@ -426,7 +426,11 @@
         "institution": {
           "name": "Universidad Pablo de Olavide",
           "description": "Competencias generales adquiridas:   \n- Entender, crear y analizar ficheros procedentes de experimentos de análisis bioinformáticos masivos.\n- Analizar datos biológicos masivos por medio de la bioinformática.\n- Gestionar datos biológicos procedentes de experimentos de análisis masivo.\n- Escribir programas y guiones bionformáticos para resolver problemas biológicos.\n- Trabajar en un entorno de supercomputación, con múltiples procesadores y colas de ejecución de procesos.\n- Trabajar colaborativamente en grupo para resolver problemas complejos en bioinformática.\n- Realizar un proyecto bioinformático utilizando técnicas de análisis de datos.",
-          "URL": "https://www.upo.es/postgrado/Master-Analisis-Bioinformatico-Avanzado"
+          "URL": "https://www.upo.es/postgrado/Master-Analisis-Bioinformatico-Avanzado",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/24/5b46ce23-d7c9-40ad-b127-a6163a64b8b5_upolavide.gif",
+            "alt": "upolavide.gif"
+          }
         },
         "linkedCompetences": [
           {
