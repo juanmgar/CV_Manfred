@@ -35,12 +35,9 @@
         "URL": "https://twitter.com/juanmgar"
       },
       {
-        "type": "stackoverflow",
-        "URL": "https://stackoverflow.com/users/11662836/juanmgar"
-      },
-      {
         "type": "other",
-        "URL": "https://juanmagarciasierra.eu/"
+        "URL": "https://juanmagarciasierra.eu/",
+        "description": "CV acturalizado"
       }
     ]
   },
@@ -553,10 +550,6 @@
         {
           "URL": "https://www.linkedin.com/in/juanmgar/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/11662836/juanmgar",
-          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/juanmgar",
