@@ -266,6 +266,11 @@
         "name": "IT",
         "fullName": "Italiano",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
