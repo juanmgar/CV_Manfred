@@ -571,6 +571,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "HL7",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
@@ -599,7 +603,8 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
