@@ -595,6 +595,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "HL7",
+        "type": "technology"
+      },
+      {
         "name": "Java",
         "type": "technology"
       },
